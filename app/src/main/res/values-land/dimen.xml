@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- dimension de l'image -->
+    <dimen name="main_img_size">200dp</dimen>
+    <!-- taille du texte -->
+    <dimen name="main_text_size">15sp</dimen>
+    <!-- taille du texte du bouton -->
+    <dimen name="main_text_button">15sp</dimen>
+    <!-- grandeur de la marge -->
+    <dimen name="main_textview_margin">20dp</dimen>
+</resources>

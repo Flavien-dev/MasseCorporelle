@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MasseCorporelle</string>
+    <!-- Ecran principal -->
+    <string name="main_title_textbox">Calculateur de masse corporelle</string>
+    <string name="main_weight_textbox">Masse</string>
+    <string name="main_height_textbox">Taille</string>
+    <string name="main_validate_button">Valider</string>
+    <string name="main_cancel_button">Annuler</string>
+    <string name="result_text">Votre masse corporelle est de </string>
+    <string name="result_num_textbox">Valeur numérique</string>
+    <string name="result_alpha_textbox">Valeur alphanumérique</string>
+    <string name="main_hint_weight">Poids</string>
+    <string name="main_hint_size">Taille</string>
+    <string name="actionbar_favorite">Favoris</string>
+    <string name="actionbar_delete">Effacer</string>
+    <string name="actionbar_about">A propos de</string>
+    <string name="application_name">Nom de l application : Calculateur de masse corporelle</string>
+    <string name="application_creator">Nom du createur : Flavien Chappuis</string>
+    <string name="application_version">N° de version : 2.1.5</string>
+    <string name="return_first_page">Retourner à la première page</string>
+</resources>

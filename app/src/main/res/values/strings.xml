@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MasseCorporelle</string>
+    <!-- Ecran principal -->
+    <string name="main_title_textbox">IMC Calculator</string>
+    <string name="main_weight_textbox">Weight</string>
+    <string name="main_height_textbox">Height</string>
+    <string name="main_validate_button">Validate</string>
+    <string name="main_cancel_button">Cancel</string>
+    <string name="result_text">Your body mass is </string>
+    <string name="result_num_textbox">Numerical value</string>
+    <string name="result_alpha_textbox">Alphanumeric value</string>
+    <string name="main_hint_weight">Poids</string>
+    <string name="main_hint_size">Taille</string>
+    <string name="actionbar_favorite">Favorite</string>
+    <string name="actionbar_delete">Delete</string>
+    <string name="actionbar_about">About</string>
+    <string name="application_name">Application name : IMC Calculator</string>
+    <string name="application_creator">Creator name : Flavien Chappuis</string>
+    <string name="application_version">N° version : 2.1.5</string>
+    <string name="return_first_page">Return to first page</string>
+</resources>
